@@ -34,3 +34,23 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "jekyll-include-cache", group: :jekyll_plugins
+
+gem "bigdecimal", "~>3.1.8"
+gem "concurrent-ruby", "~>1.3.1"
+gem "drb", "~>2.2.1"
+gem "i18n", "~>1.14.5"
+gem "minitest", "~>5.23.1"
+gem "activesupport", "~>7.1.3.3"
+gem "public_suffix", "~>5.0.5"
+gem "simpleidn", "~>0.2.3"
+gem "dnsruby", "~>1.72.1"
+gem "uri", "~>0.13.0"
+gem "net-http", "~>0.4.1"
+gem "faraday-net_http", "~>3.1.0"
+gem "faraday", "~>2.9.0"
+gem "rb-inotify", "~>0.11.1"
+gem "listen", "~>3.9.0"
+gem "strscan", "~>3.1.0"
+gem "rexml", "~>3.2.8"
+gem "racc", "~>1.8.0"
+gem "nokogiri", "~>1.16.5"
