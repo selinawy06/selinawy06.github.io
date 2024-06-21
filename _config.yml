@@ -170,16 +170,16 @@ analytics:
 # Site Author
 author:
   name             : "Selina Nie"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "_site/assets/images/bio-photo.jpg"
   bio              : "NDSEG Fellow at University of Illinois at Urbana-Champaign"
   location         : "Champaign, IL"
-  email            : ""
+  email            : "selina2@illinois.edu"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #url
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "selina2@illinois.edu"
+      # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
