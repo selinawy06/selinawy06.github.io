@@ -2,11 +2,27 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "About"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+docs:
+  - title: ""
+  children: 
+    - title: "Home"
+      url: /docs/home/
+    - title: "Publications"
+      url: /docs/publications/
+    - title: "Talks"
+      url: /docs/talks/
+    - title: "Teaching"
+      url: /docs/teaching/
+    - title: "Books"
+      url: /docs/books/
+    - title: "Resume" 
+      url: /docs/resume/
